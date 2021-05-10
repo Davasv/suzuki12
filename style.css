@@ -104,13 +104,14 @@ li > a {
     }
 
     li {
-        margin: 15px 0px;
+        margin: 12px 0px;
     }
 
     li > a {
         border: 1px solid #fff ;
         padding: 2px 8px;
         text-decoration: none;
+        font-size: 12px;
     }
 
     .middle {
